@@ -7,4 +7,3 @@ Activate in "manage plugins"
 
 Is under admin interface - green share button under "Quick Share" next to Facebook and Twitter
 
-<img src="http://berb.ec/yourls email.png">
