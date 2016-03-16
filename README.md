@@ -1,5 +1,5 @@
 # yourls-mailto
-Plugin for YOURLS (http://yourls.org) that implements a simple mailto: sharing
+Plugin for YOURLS (http://yourls.org) that implements a simple mailto: for the url list quick sharing
 
 Place in /user/plugins/mailto
 
