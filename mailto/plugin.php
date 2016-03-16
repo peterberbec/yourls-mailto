@@ -1,6 +1,6 @@
 <?php
 /**
-Plugin Name: Share via mailto
+Plugin Name: Mailto: quickshare
 Plugin URI: http://yourls.org/
 Description: Add mailto: to the list of Quick Share destinations
 Version: 1.0
