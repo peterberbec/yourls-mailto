@@ -16,7 +16,7 @@ function prb_yourls_mailto( $args ) {
     $shorturl = rawurlencode( $shorturl );
     $title = rawurlencode( htmlspecialchars_decode( $title ) );
 
-    $prb_path = YOURLS_PLUGINURL . '/' . yourls_plugin_basename( dirname(__FILE__) );
+    $prb_path = YOURLS_PLUGINURL . '/' . yourls_plugin_basename( dirname(__FILE__) . '/mailto' );
     $prb_icon = $prb_path.'/mailto.png';
 
     echo <<<MAILTO
